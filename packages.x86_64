@@ -486,5 +486,5 @@ lightdm-gtk-greeter-settings
 # CALAMARES #
 looplinux-calamares
 looplinux-calamares-config
-looplinux-system-installation
+#looplinux-system-installation
 grub
