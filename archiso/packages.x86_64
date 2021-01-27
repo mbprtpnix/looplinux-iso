@@ -468,7 +468,7 @@ ckbcomp
 xtitle-git
 sutils-git
 sxhkd-git
-looplinux-bspwm-git
+#looplinux-bspwm-git
 lightdm-gtk-greeter
 lightdm-gtk-greeter-settings
 #sddm
