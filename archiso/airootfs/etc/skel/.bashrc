@@ -219,13 +219,5 @@ ex ()
 #in there. They will not be overwritten by skel.
 
 [[ -f ~/.bashrc-personal ]] && . ~/.bashrc-personal
-(cat ~/.cache/wal/sequences &)
- source ~/.cache/wal/colors-tty.sh
- 
-#pfetch
-#clear && hfetch
-EDITOR=vim
-### RANDOM COLOR SCRIPT ###
-#colorscript random
-colorscript -e arco
+
 neofetch

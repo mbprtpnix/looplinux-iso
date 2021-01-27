@@ -151,9 +151,9 @@ echo
 	rm -rf $buildFolder/archiso/airootfs/etc/skel/.* 2> /dev/null
 	echo
 
-	echo "Getting the last version of bashrc in /etc/skel"
-	echo
-	wget https://raw.githubusercontent.com/amanre/looplinux-root/master/etc/skel/.bashrc-latest -O $buildFolder/archiso/airootfs/etc/skel/.bashrc
+	#echo "Getting the last version of bashrc in /etc/skel"
+	#echo
+	#wget https://raw.githubusercontent.com/amanre/looplinux-root/master/etc/skel/.bashrc-latest -O $buildFolder/archiso/airootfs/etc/skel/.bashrc
 
 	echo "Removing the old packages.x86_64 file from build folder"
 	rm $buildFolder/archiso/packages.x86_64
