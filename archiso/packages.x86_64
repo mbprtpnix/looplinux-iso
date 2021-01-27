@@ -460,7 +460,7 @@ ttf-ms-fonts
 
 # Gaming #
 steam
-steam-native-runtime
+#steam-native-runtime
 
 # Bspwm Desktop #
 bspwm-patched
@@ -485,5 +485,5 @@ lightdm-gtk-greeter-settings
 # CALAMARES #
 looplinux-calamares
 looplinux-calamares-config
-looplinux-system-installation
+#looplinux-system-installation
 grub
