@@ -460,8 +460,8 @@ ttf-meslo-nerd-font-powerlevel10k
 ttf-ms-fonts
 
 # Gaming #
-steam
-steam-native-runtime
+#steam
+#steam-native-runtime
 
 # Bspwm Desktop #
 bspwm-patched
