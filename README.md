@@ -1,13 +1,5 @@
-# LoopLinux Calamares Installer 
+# looplinux-iso
 
-Start building your own LoopLinux version with 
+With this github you can build your own LoopLinux version.
 
-sudo ./build.sh -v
-
-To be able to build you install this package
-
-sudo pacman -S archiso
-
-Do check out the archiso.readme.
-
-Use the correct version of archiso.
+# stable
