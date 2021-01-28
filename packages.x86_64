@@ -254,7 +254,7 @@ dmenu
 dunst
 #evolution
 feh
-firefox
+#firefox
 #flashplugin
 galculator
 geany
@@ -264,7 +264,7 @@ gmrun
 guvcview
 imagemagick
 inkscape
-libreoffice-fresh
+#libreoffice-fresh
 lightdm
 lshw
 meld
@@ -322,7 +322,7 @@ catfish
 cronie
 dconf-editor
 dex
-discord
+#discord
 #dmidecode
 edid-decode-git
 #evince
@@ -380,8 +380,8 @@ rofi
 simple-scan
 shotwell
 speedtest-cli
-timeshift
-telegram-desktop
+#timeshift
+#telegram-desktop
 #tlp
 tree
 thunar
@@ -436,7 +436,7 @@ looplinux-system-config-git
 looplinux-pipemenus-git
 alacritty-git
 conky-lua-archers
-etcher-bin
+#etcher-bin
 mkinitcpio-openswap
 luckybackup
 polybar-git
@@ -460,7 +460,7 @@ ttf-meslo-nerd-font-powerlevel10k
 ttf-ms-fonts
 
 # Gaming #
-steam
+#steam
 #steam-native-runtime
 
 # Bspwm Desktop #
