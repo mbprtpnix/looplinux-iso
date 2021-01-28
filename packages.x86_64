@@ -265,7 +265,7 @@ guvcview
 imagemagick
 inkscape
 #libreoffice-fresh
-lightdm
+#lightdm
 lshw
 meld
 mpv
@@ -470,9 +470,9 @@ xtitle-git
 sutils-git
 sxhkd-git
 looplinux-bspwm-git
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
-#sddm
+#lightdm-gtk-greeter
+#lightdm-gtk-greeter-settings
+sddm
 #urbanlifestyle-sddm-theme
 
 # XFCE4 Desktop #
