@@ -30,7 +30,8 @@ systemctl set-default graphical.target
 systemctl enable sddm.service
 
 pacman-key --init
-pacman-key --populate archlinux looplinux
+pacman-key --populate archlinux 
+
 
 
 groupscarli="adm,audio,disk,floppy,log,network,optical,rfkill,storage,video,wheel,sys"
