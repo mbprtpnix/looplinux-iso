@@ -432,6 +432,7 @@ looplinux-alacritty-config-git
 looplinux-dconf-git
 looplinux-bspwm-local-git
 looplinux-root-git
+looplinux-system-config-git
 looplinux-pipemenus-git
 alacritty-git
 conky-lua-archers
