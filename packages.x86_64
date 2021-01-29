@@ -485,6 +485,7 @@ sddm
 
 # CALAMARES #
 looplinux-calamares
-looplinux-calamares-config
+#looplinux-calamares-config
+looplinux-calamares-config-dev
 looplinux-system-installation
 grub
