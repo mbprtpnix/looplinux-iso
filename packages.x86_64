@@ -2,7 +2,7 @@
 ##                            PACKAGES AVAILABLE
 #####################################################################
 
-###archiso
+archiso
 amd-ucode
 arch-install-scripts
 #b43-fwcutter
@@ -277,7 +277,7 @@ ranger
 rofi
 scrot
 simplescreenrecorder
-termite
+#termite
 thunderbird
 #variety
 vlc
