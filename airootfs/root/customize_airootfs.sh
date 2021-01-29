@@ -34,7 +34,7 @@ pacman-key --populate archlinux
 
 
 
-groupscarli="adm,audio,disk,floppy,log,network,optical,rfkill,storage,video,wheel,sys"
+groupslooplinux="adm,audio,disk,floppy,log,network,optical,rfkill,storage,video,wheel,sys"
 useradd -m -g users -G $groupslooplinux -s /bin/bash liveuser
 passwd -d liveuser
 
