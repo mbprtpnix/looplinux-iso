@@ -91,7 +91,7 @@ syslinux
 #systemd-resolvconf
 tcpdump
 terminus-font
-termite-terminfo
+#termite-terminfo
 testdisk
 usb_modeswitch
 usbutils
@@ -380,8 +380,8 @@ rofi
 simple-scan
 shotwell
 speedtest-cli
-#timeshift
-#telegram-desktop
+timeshift
+telegram-desktop
 #tlp
 tree
 thunar
@@ -436,7 +436,7 @@ looplinux-system-config-git
 looplinux-pipemenus-git
 alacritty-git
 conky-lua-archers
-#etcher-bin
+etcher-bin
 mkinitcpio-openswap
 luckybackup
 polybar-git
