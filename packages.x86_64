@@ -158,6 +158,7 @@ base-devel
 
 ###virtual box or vmware
 open-vm-tools
+virtualbox
 #virtualbox-guest-modules-arch
 virtualbox-guest-utils
 
@@ -255,7 +256,7 @@ dmenu
 dunst
 #evolution
 feh
-#firefox
+firefox
 #flashplugin
 galculator
 geany
@@ -265,7 +266,7 @@ gmrun
 guvcview
 imagemagick
 inkscape
-#libreoffice-fresh
+libreoffice-fresh
 #lightdm
 lshw
 meld
@@ -323,7 +324,7 @@ catfish
 cronie
 dconf-editor
 dex
-#discord
+discord
 #dmidecode
 edid-decode-git
 #evince
@@ -385,9 +386,6 @@ timeshift
 telegram-desktop
 #tlp
 tree
-thunar
-thunar-archive-plugin
-thunar-volman
 #ufw
 gufw
 unace
@@ -407,7 +405,25 @@ zsh
 zsh-completions
 zsh-syntax-highlighting
 
-# LOOPLINUX #
+#########################################################################
+#                  FONTS
+#########################################################################
+ttf-font-awesome
+ttf-meslo-nerd-font-powerlevel10k
+ttf-ms-fonts
+
+#########################################################################
+#                  LOOPLINUX REPO
+#########################################################################
+#looplinux-bspwm-testing-git
+#lightdm-gtk-greeter
+#lightdm-gtk-greeter-settings
+ckbcomp
+sddm
+urbanlifestyle-sddm-theme
+xtitle-git
+sutils-git
+sxhkd
 grub-customizer
 grub-theme-vimix
 looplinux-jgmenu-config-git
@@ -426,12 +442,11 @@ looplinux-wallpaper-v1-git
 looplinux-wallpaper-v2-git
 looplinux-beautyline-git
 looplinux-bin-git
-#looplinux-local-bin-git
+looplinux-termite-themes-git
 #looplinux-local-xfce4-git
 looplinux-geany-git
 looplinux-alacritty-config-git
 looplinux-dconf-git
-#looplinux-bspwm-local-git
 looplinux-root-git
 looplinux-system-config-git
 looplinux-pipemenus-git
@@ -440,7 +455,6 @@ conky-lua-archers
 etcher-bin
 mkinitcpio-openswap
 luckybackup
-polybar-git
 python-pywal
 pamac-aur
 pfetch
@@ -456,39 +470,119 @@ yay-bin
 yad-git
 zsh-theme-powerlevel10k-git
 
-# Fonts #
-ttf-font-awesome
-ttf-meslo-nerd-font-powerlevel10k
-ttf-ms-fonts
 
-# Gaming #
+
+#########################################################################
+#                  GAMING
+#########################################################################
 steam
 #steam-native-runtime
+lutris
+wine-staging
+wine-gecko
+wine-mono
+playonlinux
+winetricks
 
-# Bspwm Desktop #
+#########################################################################
+#                  NVIDIA
+#########################################################################
+#nvidia-dkms
+#nvidia-utils
+#lib-nvidia-utils
+#nvidia-settings
+
+#########################################################################
+#                 LOOPLINUX DESKTOP FOLDER
+#########################################################################
+
 bspwm-patched
-ckbcomp
-xtitle-git
-sutils-git
-sxhkd-git
-looplinux-bspwm-git
-#looplinux-bspwm-testing-git
-#lightdm-gtk-greeter
-#lightdm-gtk-greeter-settings
-sddm
-#urbanlifestyle-sddm-theme
-
-# XFCE4 Desktop #
-
-#xfce4
-#xfce4-goodies
 #looplinux-xfce4-git
+
+###########################################################################
+#                         XFCE
+###########################################################################
+
+#exo
+#garcon
+thunar
+thunar-volman
+tumbler
+#xfce4-appfinder
+#xfce4-panel
+xfce4-power-manager
+#xfce4-session
+#xfce4-settings
+#xfce4-terminal
+#xfconf
+#xfdesktop
+#xfwm4
+#xfwm4-themes
+
+### xfce4-goodies group content
+# https://www.archlinux.org/groups/x86_64/xfce4-goodies/
+#mousepad
+#orage
+#parole
+ristretto
+thunar-archive-plugin
+thunar-media-tags-plugin
+#xfburn
+#xfce4-artwork
+#xfce4-battery-plugin
+#xfce4-clipman-plugin
+#xfce4-cpufreq-plugin
+#xfce4-cpugraph-plugin
+#xfce4-datetime-plugin
+#xfce4-dict
+#xfce4-diskperf-plugin
+#xfce4-eyes-plugin
+#xfce4-fsguard-plugin
+#xfce4-genmon-plugin
+#xfce4-mailwatch-plugin
+#xfce4-mount-plugin
+#xfce4-mpc-plugin
+#xfce4-netload-plugin
+#xfce4-notes-plugin
+#xfce4-notifyd
+#xfce4-pulseaudio-plugin
+#xfce4-screensaver
+#xfce4-screenshooter
+#xfce4-sensors-plugin
+#xfce4-smartbookmark-plugin
+#xfce4-systemload-plugin
+#xfce4-taskmanager
+#xfce4-time-out-plugin
+#xfce4-timer-plugin
+#xfce4-verve-plugin
+#xfce4-wavelan-plugin
+#xfce4-weather-plugin
+#xfce4-whiskermenu-plugin
+#xfce4-xkb-plugin
+#xfce4-panel-profiles
+
+
+
+
+
+
+
+
+###########################################################################
+#                           LOOPLINUX CONFIG FOLDER
+###########################################################################
+looplinux-bspwm-git
 #looplinux-xfce4-panel-profiles-git
 
-
-# CALAMARES #
+#########################################################################
+#                 LOOPLINUX CALAMARES
+#########################################################################
 looplinux-calamares
 looplinux-calamares-config
 #looplinux-calamares-config-dev
 looplinux-system-installation
-grub
+
+###########################################################################
+#                                ISO SPECIFIC
+###########################################################################
+polybar-git
