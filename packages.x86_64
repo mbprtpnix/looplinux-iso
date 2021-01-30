@@ -430,7 +430,7 @@ looplinux-bin-git
 looplinux-geany-git
 looplinux-alacritty-config-git
 looplinux-dconf-git
-looplinux-bspwm-local-git
+#looplinux-bspwm-local-git
 looplinux-root-git
 looplinux-system-config-git
 looplinux-pipemenus-git
@@ -460,7 +460,7 @@ ttf-meslo-nerd-font-powerlevel10k
 ttf-ms-fonts
 
 # Gaming #
-#steam
+steam
 #steam-native-runtime
 
 # Bspwm Desktop #
