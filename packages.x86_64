@@ -12,6 +12,7 @@ broadcom-wl
 btrfs-progs
 clonezilla
 crda
+compton
 darkhttpd
 ddrescue
 dhclient
@@ -442,6 +443,7 @@ luckybackup
 polybar-git
 python-pywal
 pamac-aur
+pfetch
 awesome-terminal-fonts-git
 bibata-cursor-theme
 bibata-rainbow-cursor-theme
@@ -469,8 +471,8 @@ ckbcomp
 xtitle-git
 sutils-git
 sxhkd-git
-#looplinux-bspwm-git
-looplinux-bspwm-testing-git
+looplinux-bspwm-git
+#looplinux-bspwm-testing-git
 #lightdm-gtk-greeter
 #lightdm-gtk-greeter-settings
 sddm
