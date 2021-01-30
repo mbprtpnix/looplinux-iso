@@ -36,7 +36,7 @@ pacman-key --populate archlinux
 
 
 groupslooplinux="adm,audio,disk,floppy,log,network,optical,rfkill,storage,video,wheel,sys"
-useradd -m -g users -G $groupslooplinux -s /bin/bash liveuser
+useradd -m -g users -G $groupslooplinux -s /bin/zsh liveuser
 passwd -d liveuser
 
 #set permissions
